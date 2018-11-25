@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WCAGAutomationSuites" parallel="none">
+    <test name="FunctionalTestCases">
+        <classes>
+            <class name="com.automationcalling.testrunner.Runner"/>
+        </classes>
+    </test>
+</suite>
